@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon-OAuth-Demo", "Amazon-OAuth-Demo\Amazon-OAuth-Demo.csproj", "{8DA38B61-1DAC-4CCA-8B41-488F972597EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon-OAuth-Provider", "Amazon-OAuth-Provider\Amazon-OAuth-Provider.csproj", "{40ED6DC4-BDA4-4580-855C-A2A9D3E9FDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA38B61-1DAC-4CCA-8B41-488F972597EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA38B61-1DAC-4CCA-8B41-488F972597EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA38B61-1DAC-4CCA-8B41-488F972597EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA38B61-1DAC-4CCA-8B41-488F972597EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40ED6DC4-BDA4-4580-855C-A2A9D3E9FDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40ED6DC4-BDA4-4580-855C-A2A9D3E9FDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40ED6DC4-BDA4-4580-855C-A2A9D3E9FDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40ED6DC4-BDA4-4580-855C-A2A9D3E9FDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
